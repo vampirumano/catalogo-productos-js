@@ -17,3 +17,28 @@
 img{
     width: 100%;
 }
+
+#main-header {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+}
+
+.logo {
+  height: 40px;
+}
+
+.slogan {
+  
+  
+  color: #333;
+}
+
+.menu{
+  display: flex;
+  gap: 20px;
+  
+}
+a{
+  text-decoration: none;
+}
